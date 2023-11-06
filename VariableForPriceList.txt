@@ -29,11 +29,13 @@
     STORE_TAG_TABL = Range("STORE_TAG_TABL").Column 5 E
     QUAR_TAG_TABL = Range("QUAR_TAG_TABL").Column 6 F
     ENTI_TAG_TABL = Range("ENTI_TAG_TABL").Column 7 G
-    INV_GEN_TABL = Range("INV_GEN_TABL").Column 9 I
-    INV_BASE_TABL = Range("INV_BASE_TABL").Column 11 K
-    NAME_BASE_TABL = Range("NAME_BASE_TABL").Column 12 L
-    BRAND_BASE_TABL = Range("BRAND_BASE_TABL").Column 13 M
-    MODEL_BASE_TABL = Range("MODEL_BASE_TABL").Column 14 N
+    ADD_PROD_TABL = Range("ADD_PROD_TABL").Column 8 H
+    DEL_PROD_TABL = Range("DEL_PROD_TABL").Column 9 I
+    INV_GEN_TABL = Range("INV_GEN_TABL").Column 10 J
+    INV_BASE_TABL = Range("INV_BASE_TABL").Column 12 L
+    NAME_BASE_TABL = Range("NAME_BASE_TABL").Column 13 M
+    BRAND_BASE_TABL = Range("BRAND_BASE_TABL").Column 14 N
+    MODEL_BASE_TABL = Range("MODEL_BASE_TABL").Column 15 O
 
 What	ƒанные дл€ поиска, которые могут быть представлены строкой или другим типом данных Excel. “ип данных параметра Ч Variant.
 Ќеоб€зательные параметры
